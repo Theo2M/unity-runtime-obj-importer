@@ -1,4 +1,4 @@
-## Dummiesman's OBJ Importer — Fork
+## Dummiesman's OBJ Importer - Fork
 
 ### Adapted to work with *Universal Render Pipeline/Lit shader*.
 
