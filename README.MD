@@ -21,6 +21,8 @@ You must go to the "Graphics" tab in your project, and add "Universal Render Pip
 - Works in editor, and during runtime
 - Loads triangles, quads, and ngons
 
+---
+
 ## Original Work
 [Runtime OBJ Importer Unity Plugin](https://assetstore.unity.com/packages/tools/modeling/runtime-obj-importer-49547) by Dummiesman
 All credit goes to the original author, Dummiesman. This fork is provided as-is, under the same license as the original package
