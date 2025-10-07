@@ -1,10 +1,11 @@
 
 <body>
-    <h2>Dummiesman's OBJ Importer</h2>
+    <h2>Dummiesman's OBJ Importer — Fork</h2>
+    <h3>Adapted to work with <em>Universal Render Pipeline/Lit shader</em>.</h3>
     <p>Works during runtime*, and in editor! A couple of code samples are provided in the Samples folder.</p>
     <br />
     <h2>*Runtime Import Note</h2>
-    <p>You must go to the "Graphics" tab in your project, and add "Standard (Specular Setup)" to the always included shaders. This will make your next build take a while.</p>
+    <p>You must go to the "Graphics" tab in your project, and add "Universal Render Pipeline/Lit" to the always included shaders. This will make your next build take a while.</p>
     <br />
     <h2>Features</h2>
     <ul>
